@@ -39,6 +39,12 @@ To reproduce the findings in the notebooks:
 4. To perform tests created in the `tests\`, go to that directory and run `pytest`.
 
 
+## Contact
+GitHub: https://github.com/gohngeejuay
+Linkedin: www.linkedin.com/in/gohngeejuay
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
 
