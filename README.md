@@ -6,7 +6,7 @@
 
 This repository contains data, Python scripts, and notebooks for processing and analyzing solar irradiance data. It supports downloading, cleaning, and visualizing datasets for renewable energy research and related sustainability projects.
 
-The code complements the blog: ...
+The code complements the blog: https://gohngeejuay.github.io/gohngeejuay/posts/solar_toa_influx_analysis/
 
 ---
 
