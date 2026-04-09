@@ -301,4 +301,3 @@ dependencies:
       - numexpr==2.14.1
       - progressbar2==4.5.0
       - python-utils==3.9.1
-prefix: C:\Users\gohng\.conda\envs\atlite_clean
